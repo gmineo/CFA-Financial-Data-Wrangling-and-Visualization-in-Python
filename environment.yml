@@ -16,6 +16,7 @@ dependencies:
   - jupyter
   - lxml
   - requests
+  - pandas_datareader
   - pip
   - pip: 
     - statsmodels
