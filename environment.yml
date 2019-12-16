@@ -13,7 +13,9 @@ dependencies:
   - dask
   - scipy
   - ipython
-  - jupyter 
+  - jupyter
+  - lxml
+  - requests
   - pip
   - pip: 
     - statsmodels
