@@ -18,13 +18,16 @@ dependencies:
   - requests
   - enum34
   - click
-  - click-datetime
   - nose
   - mock
   - coverage
-  - urltools
   - pip
   - pip: 
     - statsmodels
     - pandas-datareader
     - finam-export
+    - urltools
+    - click-datatime
+  
+    
+    
