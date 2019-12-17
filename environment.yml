@@ -27,7 +27,4 @@ dependencies:
     - pandas-datareader
     - finam-export
     - urltools
-    - click-datatime
-  
-    
-    
+    - click-datetime
