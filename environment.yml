@@ -2,7 +2,6 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - alpha-vantage
   - quandl
   - numpy
   - psutil
@@ -25,6 +24,7 @@ dependencies:
   - coverage
   - pip
   - pip: 
+    - alpha-vantage
     - statsmodels
     - pandas-datareader
     - finam-export
